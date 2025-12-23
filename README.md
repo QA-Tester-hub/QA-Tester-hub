@@ -82,31 +82,6 @@
 
 
 <br>
-
-<h2 align="center"><b>📛 Holopin Badges</b></h2>
-
-[![An image of @namankoolwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namankoolwal)](https://holopin.io/@namankoolwal)
-
-<br>
-
-<h2 align="center"><b>♾ DevCard </b></h2>
-
-<div align="center">
-<a href="https://app.daily.dev/namankhandelwal26"> <img src="https://api.daily.dev/devcards/v2/68qj3Y75PaAFJTpDjqE7z.png?type=wide&r=cbt" width="700" alt="Naman Khandelwal's Dev Card"/></a>
-
-
-</div>
-
-<br>
-
-<h2 align="center"><b>🎇Badges</b></h2>
-<div align="center"> 
-      
-![aws-educate-introduction-to-cloud-101](https://github.com/namankoolwal/namankoolwal/assets/104143943/33e73087-0498-4356-b2a8-1bfe465dcc9c)
-![github-foundations](https://github.com/user-attachments/assets/a3891013-24ca-4131-9895-396252958265)
-
-</div>
-
 <h2 align="center"></h2>
 
 <br>
